@@ -39,5 +39,6 @@ export default StyleSheet.create({
     fontSize: 25,
     color: '#FFF',
     fontStyle: 'italic',
+    textAlign: 'center',
   },
 });
