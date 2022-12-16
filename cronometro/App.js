@@ -39,7 +39,7 @@ export default function app() {
         }`;
 
         setCronometro(format);
-      }, 1000);
+      }, 100);
     }
   }
 
